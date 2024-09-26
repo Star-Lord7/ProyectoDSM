@@ -1,0 +1,34 @@
+{
+  "project_info": {
+    "project_number": "954839904084",
+    "project_id": "tiendaelectronica2-1f294",
+    "storage_bucket": "tiendaelectronica2-1f294.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:954839904084:android:71c971a216207ce3d1a2c1",
+        "android_client_info": {
+          "package_name": "com.example.tiendaelectronica2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "954839904084-0p7vgmrfmqr3qgt4hv6tc2qjvkr2ntia.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8211eDq_ebKueUzs5GfDWHasrn_OPLZk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
